@@ -56,8 +56,11 @@ This project demonstrates real-time anomaly detection using Dash and Plotly.
    ```bash
    cd Efficient-Data-Stream-Anomaly-Detection
 4. Create a virtual environment (optional but recommended):
+   ```bash
    python -m venv venv
+   ```
    Activate the virtual environment:
+   
    On Windows:
    ```bash
    .\venv\Scripts\activate
@@ -65,10 +68,10 @@ This project demonstrates real-time anomaly detection using Dash and Plotly.
    On Linux/macOS:
    ```bash
    source venv/bin/activate
-5. Install dependencies
+6. Install dependencies
    ```bash
    pip install -r requirements.txt
-6. Run the following command to start the Dash application:
+7. Run the following command to start the Dash application:
    ```bash
    python your_script_name.py
 
