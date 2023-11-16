@@ -51,20 +51,22 @@ This project demonstrates real-time anomaly detection using Dash and Plotly.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/real-time-anomaly-detection.git
+   git clone https://github.com/codlearete/Efficient-Data-Stream-Anomaly-Detection.git
 2. Navigate to the project directory:
    cd real-time-anomaly-detection
 3. Create a virtual environment (optional but recommended):
    python -m venv venv
    Activate the virtual environment:
    On Windows:
+   ```bash
    .\venv\Scripts\activate
+   ```
    On Linux/macOS:
-   .\venv\Scripts\activate
+   ```bash
    source venv/bin/activate
-4. Install dependencies
+5. Install dependencies
    pip install -r requirements.txt
-5. python your_script_name.py
+6. python your_script_name.py
 
 Replace your_script_name.py with the actual name of your Python script.
 
