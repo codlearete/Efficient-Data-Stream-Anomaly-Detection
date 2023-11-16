@@ -58,10 +58,8 @@ This project demonstrates real-time anomaly detection using Dash and Plotly.
    python -m venv venv
    Activate the virtual environment:
    On Windows:
-   bash
    .\venv\Scripts\activate
    On Linux/macOS:
-   bash
    .\venv\Scripts\activate
    source venv/bin/activate
 4. Install dependencies
