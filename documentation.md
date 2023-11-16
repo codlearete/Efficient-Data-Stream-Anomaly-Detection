@@ -8,7 +8,7 @@ This Python script implements a real-time anomaly detection dashboard using the 
   
 >Data Generation and Anomaly Simulation
 
-The application generates synthetic sensor data with a combination of a pattern, seasonal variation, and random noise. Anomalies are introduced randomly with a 7% probability, simulating unexpected spikes in the sensor readings.
+The application generates synthetic sensor data with a combination of a pattern, seasonal variation, and random noise. Anomalies are introduced randomly with a 8% probability, simulating unexpected spikes in the sensor readings.
 
 
 >Dash Layout
