@@ -1,4 +1,5 @@
-I am Jir Et Katharpi(20IM10015)
+I am Jir Et Katharpi
+(20IM10015)
 
 # Efficient-Data-Stream-Anomaly-Detection
 This a Python script capable of detecting anomalies in a continuous data stream.
