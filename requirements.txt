@@ -1,6 +1,9 @@
 Libraries Used:
 **Dash**: A web application framework for building interactive web applications.
+->Install with: pip install dash
 **html, dcc from Dash**: Modules for creating HTML components and interactive components.
 **plotly.graph_objs as go**: Plotly library for creating interactive and dynamic plots.
+->Install with: pip install plotly
 **numpy (np)**: Library for numerical operations and generating synthetic data.
+->Install with: pip install numpy
 **collections.deque**: Double-ended queue for efficiently managing a fixed-size sequence of data.
