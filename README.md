@@ -4,7 +4,7 @@ I am Jir Et Katharpi
 # Efficient-Data-Stream-Anomaly-Detection
 This a Python script capable of detecting anomalies in a continuous data stream.
 
-Objectives of the Project:
+# Objectives of the Project:
 
 # 1. Algorithm Selection: 
   In this implementation, Z-Score thresholding is used for anomaly detection. 
