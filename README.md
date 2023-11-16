@@ -29,9 +29,9 @@ Objectives of the Project:
   Additionally, the algorithm calculates the mean and standard deviation in a way that minimizes computational complexity.
 
 # 5. Visualization:
-# The visualization is achieved using Plotly and Dash. The real-time graph is updated at regular intervals, 
-# displaying the sensor data points, a line plot, and highlighted anomalies. The visualization provides a clear 
-# representation of the data stream and detected anomalies, facilitating easy interpretation.
+  The visualization is achieved using Plotly and Dash. The real-time graph is updated at regular intervals, 
+  displaying the sensor data points, a line plot, and highlighted anomalies. The visualization provides a clear 
+  representation of the data stream and detected anomalies, facilitating easy interpretation.
 
 
 
