@@ -62,9 +62,13 @@ This project demonstrates real-time anomaly detection using Dash and Plotly.
    On Linux/macOS:
    ```bash
    source venv/bin/activate
-6. Install dependencies
+5. Install dependencies
    ```bash
    pip install -r requirements.txt
+6. Install dependencies
+   ```bash
+   pip install dash
+   pip install numpy
 7. Run the following command to start the Dash application:
    ```bash
    python main.py
