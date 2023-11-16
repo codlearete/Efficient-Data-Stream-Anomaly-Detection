@@ -6,12 +6,6 @@ This a Python script capable of detecting anomalies in a continuous data stream.
 
 Objectives of the Project:
 
-1.Algorithm Selection: Identify and implement a suitable algorithm for anomaly detection, capable of adapting to concept drift and seasonal variations.
-2.Data Stream Simulation: Design a function to emulate a data stream, incorporating regular patterns, seasonal elements, and random noise.
-3.Anomaly Detection: Develop a real-time mechanism to accurately flag anomalies as the data is streamed.
-4.Optimization: Ensure the algorithm is optimized for both speed and efficiency.
-5.Visualization: Create a straightforward real-time visualization tool to display both the data stream and any detected anomalies.
-
 # 1. Algorithm Selection: 
   In this implementation, Z-Score thresholding is used for anomaly detection. 
   It is a simple algorithm that calculates the standard score (Z-Score) of each data point 
