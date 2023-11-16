@@ -34,7 +34,7 @@ def add_data_point():
     """
     Generates a new data point and appends it to the time_points and sensor_values deques.
     The data point consists of a pattern, seasonal variation, and random noise.
-    Anomalies are introduced with a 7% probability.
+    Anomalies are introduced with a 8% probability.
     """
     global time
     time += 1
@@ -48,7 +48,7 @@ def add_data_point():
     data_point = pattern + seasonal + noise
 
     # Adding random anomaly with a probability of 7%
-    if np.random.rand() < 0.07:
+    if np.random.rand() < 0.08:
         data_point += np.random.normal(0, 10)
 
     sensor_values.append(data_point)
