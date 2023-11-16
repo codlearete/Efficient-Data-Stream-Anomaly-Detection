@@ -67,10 +67,7 @@ This project demonstrates real-time anomaly detection using Dash and Plotly.
    pip install -r requirements.txt
 7. Run the following command to start the Dash application:
    ```bash
-   python your_script_name.py
-
-Replace your_script_name.py with the actual name of your Python script.
-## Here it is "main.py"
+   python main.py
 
 Open your web browser and go to http://localhost:8050/ to view the real-time anomaly detection dashboard.
 
