@@ -16,7 +16,7 @@ Objectives of the Project:
 
 # 2. Data Stream Simulation:
   The add_data_point function generates synthetic sensor data that includes a pattern, seasonal variation, 
-  and random noise. Anomalies are introduced with a 7% probability, simulating unexpected spikes in the sensor readings.
+  and random noise. Anomalies are introduced with a 8% probability, simulating unexpected spikes in the sensor readings.
   The generated data points are stored in time_points and sensor_values deques.
 
 # 3. Anomaly Detection:
