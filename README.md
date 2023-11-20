@@ -67,7 +67,7 @@ This project demonstrates real-time anomaly detection using Dash and Plotly.
    pip install -r requirements.txt
 6. Install dependencies
    ```bash
-   pip install --user dash
+   pip install dash
 7. Install dependencies
    ```bash
    pip install numpy
